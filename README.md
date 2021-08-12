@@ -33,6 +33,8 @@ You will also see any lint errors in the console.
 
 ## Learn More
 
+The favicon used in this app was downloaded from [Icons8](https://icons8.com/icon/B66tBXIKOwR9/chuck-norris).
+
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
