@@ -1,6 +1,6 @@
 ## *How to run this app*
 
-### Make sure you have the right environment
+### Make sure you have a proper environment to run the code
 
 Before choosing to work or run this code make sure you have the right tools.\
 I recommend [Visual Studio Code](https://code.visualstudio.com/).\
