@@ -3,7 +3,8 @@
 ### Make sure you have a proper environment to run the code
 
 Before choosing to work or run this code make sure you have the right tools.\
-I recommend [Visual Studio Code](https://code.visualstudio.com/).\
+I recommend [Visual Studio Code](https://code.visualstudio.com/).
+
 If you do not have VSC or some other code editing program I'd recommend\
 downlowding one before you start.
 
