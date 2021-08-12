@@ -21,7 +21,7 @@ Once your download is done you can unzip the code\
 
 ### Install needed libraries
 
-To get all the needed libraries to run this code please make sure you are\ 
+To get all the needed libraries to run this code please make sure you are\
 in the project directory and run the command `npm i` in VSC's terminal.
 
 In order to start the app you can run `npm start` in VSC's terminal.\
