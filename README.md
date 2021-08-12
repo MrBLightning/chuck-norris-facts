@@ -16,13 +16,13 @@ and choosing the 'Download ZIP' option.
 This will get you a zip (compressed) file containing almost\
 all the files you need to run this app locally.
 
-Once your download is done you can unzip the code\ 
+Once your download is done you can unzip the code\
 (open the compressed file) into a folder of your choice.
 
 ### Install needed libraries
 
 To get all the needed libraries to run this code please make sure you are\ 
-in the project directory and run the command `npm i` in VSC's terminal.\
+in the project directory and run the command `npm i` in VSC's terminal.
 
 In order to start the app you can run `npm start` in VSC's terminal.\
 This command runs the app in the development mode.\
