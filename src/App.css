@@ -1,0 +1,131 @@
+.quoteContainer {
+  margin: 80px;
+  padding-left: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 740px;
+  min-height: 50px;
+  text-align: center;
+  position: relative;
+  font-family: Helvetica;
+  font-size: 25px;
+}
+.quoteContainer:before,
+.quoteContainer:after {
+  position: absolute;
+  color: #e2e3e4;
+}
+.quoteContainer:before {
+  z-index: 10;
+  content: url(./assets/before.svg) ;
+  top: -29px;
+  left: 22px;
+}
+.quoteContainer:after {
+  z-index: 10;
+  content: url(./assets/after.svg) ;
+  bottom: -35px;
+  right: -30px;
+}
+.quoteFrame {
+  color: #24ade3;
+  padding: 50px;
+  border-top: 5px dashed #24ade3;
+  border-right: 5px dashed #24ade3;
+  border-left: 5px solid #24ade3;
+  border-bottom: 5px solid #24ade3;
+}
+.quoteFrame:before,
+.quoteFrame:after {
+  position: absolute;
+  font-size: 90px;
+  color: #fff;
+  background-color: #fff;
+}
+.quoteFrame:before {
+  z-index: 5;
+  content: "- -";
+  top: -75px;
+  left: 5px;
+}
+.quoteFrame:after {
+  z-index: 5;
+  content: "- -";
+  bottom: -75px;
+  right: -45px;
+}
+
+
+
+.quoteContainereSearch {
+  padding: 15px;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 630px;
+  min-height: 50px;
+  text-align: center;
+  position: relative;
+  font-family: Helvetica;
+  font-size: 20px;
+}
+.quoteContainereSearch:before,
+.quoteContainereSearch:after {
+  position: absolute;
+  color: #e2e3e4;
+}
+.quoteContainereSearch:before {
+  z-index: 10;
+  content: url(./assets/before.svg) ;
+  top: 35px;
+  left: -15px;
+}
+.quoteContainereSearch:after {
+  z-index: 10;
+  content: url(./assets/after.svg) ;
+  bottom: 25px;
+  right: -15px;
+}
+.quoteFrameSearch {
+  color: #24ade3;
+  padding: 50px;
+  border-top: 5px dashed #24ade3;
+  border-right: 5px dashed #24ade3;
+  border-left: 5px solid #24ade3;
+  border-bottom: 5px solid #24ade3;
+}
+.quoteFrameSearch:before,
+.quoteFrameSearch:after {
+  position: absolute;
+  font-size: 110px;
+  color: #eff4f7;
+  background-color: #eff4f7;
+}
+.quoteFrameSearch:before {
+  z-index: 5;
+  content: "- -";
+  top: -55px;
+  left: -45px;
+}
+.quoteFrameSearch:after {
+  z-index: 5;
+  content: "- -";
+  bottom: -55px;
+  right: -45px;
+}
+
+/* remove padding from detail line in datagrid tabel */
+.dx-datagrid-rowsview .dx-row > .dx-master-detail-cell {
+  padding: 0px;
+}
+/* allow text to wrap in the detail line in datagrid tabel */
+.dx-datagrid-nowrap,
+.dx-datagrid-nowrap .dx-header-row > td > .dx-datagrid-text-content {
+  white-space: pre-wrap;
+}
+
+/* color selected line blue in datagrid tabel*/
+.dx-selection td{
+  background:#e3f4fc !important;
+}
