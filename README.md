@@ -10,8 +10,7 @@ downlowding one before you start.
 ### Download the code
 
 You can download the app's code by clicking on the 'code' button\
-on the top right of the repository screen\
-and choosing the 'Download ZIP' option.
+on the top right of the repository screen and choosing the 'Download ZIP' option.
 
 This will get you a zip (compressed) file containing almost\
 all the files you need to run this app locally.
