@@ -2,21 +2,22 @@
 
 ### Make sure you have the right environment
 
-Before choosing to work or run this code make sure you have the right tools.
-I recommend [Visual Studio Code](https://code.visualstudio.com/).
-If you do not have VSC or some other code editing program I'd recommend 
+Before choosing to work or run this code make sure you have the right tools.\
+I recommend [Visual Studio Code](https://code.visualstudio.com/).\
+If you do not have VSC or some other code editing program I'd recommend\ 
 downlowding one before you start.
 
 ### Download the code
 
-You can download the app's code by clicking on the 'code' button on the top right of the repository screen
-and choosing the 'Download ZIP' option.
+You can download the app's code by clicking on the 'code' button\ 
+on the top right of the repository screen\
+and choosing the 'Download ZIP' option.\
 
-This will get you a zip (compressed) file containing almost 
-all the files you need to run this app locally.
+This will get you a zip (compressed) file containing almost\
+all the files you need to run this app locally.\
 
-Once your download is done you can unzip the code (open the compressed file)
-into a folder of your choice.
+Once your download is done you can unzip the code\ 
+(open the compressed file) into a folder of your choice.\
 
 ### Install needed libraries
 
